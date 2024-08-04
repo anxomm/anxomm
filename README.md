@@ -1,6 +1,6 @@
 ### Hi there! I'm Ángel Miguélez 👋
 
-💻📚 I am a graduate student in computer science specialized mainly in artificial intelligence focused on the field of computer vision. Currently, I am fully immersed in the study of artificial intelligence at the University of A Coruña. From computer vision to natural language processing, I am interested in the whole field of deep learning! During my educational stage I have been involved in many types of projects and learned many tools:
+💻📚 I am a graduate student in computer science specialized mainly in artificial intelligence focused on the field of computer vision. Currently, I am fully immersed in the field of artificial intelligence and deep learning applied to e-commerce at Inditex. From computer vision to natural language processing, I am interested in the whole field of deep learning! During my educational stage I have been involved in many types of projects and learned many tools:
 
 - 🔬 Python, Tensorflow/Keras and PyTorch in multiple AI applications: text analysis, image classification and segmentation, numerical predictions, text generation...
 - 📈 Julia and Scikit-Learn for time series forecasting (stock market), and River for training models incrementally.
