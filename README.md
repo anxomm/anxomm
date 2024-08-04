@@ -13,6 +13,7 @@
 <!--TODO: add links to projects -->
 
 ### Trajectory
+- [2023-today] Data Scientists at [Inditex](https://www.inditex.com/itxcomweb/es/home)
 - [2022-2023] MSc Artificial Intelligence student at University of A Coruña
 - [2022] IA Sofware Developer at [Cinfo](https://www.cinfo.es/es/)
 - [2018-2022] BSc Computer Science student at University of A Coruña
